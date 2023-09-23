@@ -50,7 +50,7 @@ namespace MyApp// Note: actual namespace depends on the project name.
             } while (!salir);
 
             Console.ReadKey();
-        }//Fin del codigo Principal
+        }//Fin del principal
 
 
 
